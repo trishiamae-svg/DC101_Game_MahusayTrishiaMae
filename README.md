@@ -21,3 +21,4 @@ INSTRUCTION TO RUN THE GAME:
 6. When the timer ends, view your score.
 
 LINK TO GITHUB PAGE:
+https://github.com/trishiamae-svg/DC101_Game_MahusayTrishiaMae.git
